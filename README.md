@@ -96,7 +96,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:shivanshmishra7275@users.noreply.github.com">
-    <img src="https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge" alt="Email" />
   </a>
   <a href="https://shivanshmishra7275.github.io">
     <img src="https://img.shields.io/badge/Portfolio-7F3ACE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
