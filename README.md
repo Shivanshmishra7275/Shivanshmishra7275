@@ -27,7 +27,7 @@
   <tr>
     <td align="center" width="50%">
       <strong>Machine Learning &amp; Data</strong><br/>
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas&theme=dark" alt="ML and data stack" />
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,pandas&theme=dark" alt="ML and data stack" />
     </td>
     <td align="center" width="50%">
       <strong>Development &amp; Cloud</strong><br/>
@@ -65,8 +65,8 @@
 </table>
 
 ## 🧪 In The Lab (Currently Building)
-- **Nyaya Mitra:** AI-powered legal super-app for India (Drafting Architecture).
-- **ModelForge:** Automated data science pipeline for preprocessing and model training.
+- **Nyaya Mitra:** AI-powered legal super-app for India — drafting architecture.
+- **ModelForge:** Automated data science pipeline for preprocessing and model training — pipeline blueprinting.
 
 ## 🐍 Automated Contribution Flow
 <p align="center">
