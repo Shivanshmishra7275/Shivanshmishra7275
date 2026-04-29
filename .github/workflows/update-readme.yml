@@ -20,6 +20,24 @@ on:
 permissions:
   contents: write   # Needed to commit the refreshed README back
 
+# ─────────────────────────────────────────────
+#  Shared configuration for both GitHub accounts
+# ─────────────────────────────────────────────
+env:
+  ACTIVITY_GRAPH_BASE: "https://github-readme-activity-graph.vercel.app/graph"
+  # Primary account (shivansh-mishraji)
+  PRIMARY_USER: "shivansh-mishraji"
+  PRIMARY_COLOR: "6ee7f7"
+  PRIMARY_LINE: "6366f1"
+  PRIMARY_POINT: "6ee7f7"
+  # Secondary account (Shivanshmishra7275)
+  SECONDARY_USER: "Shivanshmishra7275"
+  SECONDARY_COLOR: "a78bfa"
+  SECONDARY_LINE: "ec4899"
+  SECONDARY_POINT: "a78bfa"
+  # Shared graph settings
+  GRAPH_BG: "0d1117"
+
 jobs:
   # ────────────────────────────────────────────
   #  Job 1: Validate README structure
@@ -98,12 +116,12 @@ jobs:
 
           # Primary account activity graph
           curl -sL \
-            "https://github-readme-activity-graph.vercel.app/graph?username=shivansh-mishraji&bg_color=0d1117&color=6ee7f7&line=6366f1&point=6ee7f7&area=true&hide_border=true" \
+            "${ACTIVITY_GRAPH_BASE}?username=${PRIMARY_USER}&bg_color=${GRAPH_BG}&color=${PRIMARY_COLOR}&line=${PRIMARY_LINE}&point=${PRIMARY_POINT}&area=true&hide_border=true" \
             -o .github/assets/activity-primary.svg || echo "Warning: Could not fetch primary activity graph SVG (non-fatal)"
 
           # Secondary account activity graph
           curl -sL \
-            "https://github-readme-activity-graph.vercel.app/graph?username=Shivanshmishra7275&bg_color=0d1117&color=a78bfa&line=ec4899&point=a78bfa&area=true&hide_border=true" \
+            "${ACTIVITY_GRAPH_BASE}?username=${SECONDARY_USER}&bg_color=${GRAPH_BG}&color=${SECONDARY_COLOR}&line=${SECONDARY_LINE}&point=${SECONDARY_POINT}&area=true&hide_border=true" \
             -o .github/assets/activity-secondary.svg || echo "Warning: Could not fetch secondary activity graph SVG (non-fatal)"
 
           echo "Activity graph SVG cache refresh attempted."
