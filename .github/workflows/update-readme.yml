@@ -30,11 +30,13 @@ env:
   PRIMARY_COLOR: "6ee7f7"
   PRIMARY_LINE: "6366f1"
   PRIMARY_POINT: "6ee7f7"
+  PRIMARY_TITLE: "shivansh-mishraji%27s%20Contribution%20Graph"
   # Secondary account (Shivanshmishra7275)
   SECONDARY_USER: "Shivanshmishra7275"
   SECONDARY_COLOR: "a78bfa"
   SECONDARY_LINE: "ec4899"
   SECONDARY_POINT: "a78bfa"
+  SECONDARY_TITLE: "Shivanshmishra7275%27s%20Contribution%20Graph"
   # Shared graph settings
   GRAPH_BG: "0d1117"
 
@@ -116,12 +118,12 @@ jobs:
 
           # Primary account activity graph
           curl -sL \
-            "${ACTIVITY_GRAPH_BASE}?username=${PRIMARY_USER}&bg_color=${GRAPH_BG}&color=${PRIMARY_COLOR}&line=${PRIMARY_LINE}&point=${PRIMARY_POINT}&area=true&hide_border=true" \
+            "${ACTIVITY_GRAPH_BASE}?username=${PRIMARY_USER}&custom_title=${PRIMARY_TITLE}&bg_color=${GRAPH_BG}&color=${PRIMARY_COLOR}&line=${PRIMARY_LINE}&point=${PRIMARY_POINT}&area=true&hide_border=true" \
             -o .github/assets/activity-primary.svg || echo "Warning: Could not fetch primary activity graph SVG (non-fatal)"
 
           # Secondary account activity graph
           curl -sL \
-            "${ACTIVITY_GRAPH_BASE}?username=${SECONDARY_USER}&bg_color=${GRAPH_BG}&color=${SECONDARY_COLOR}&line=${SECONDARY_LINE}&point=${SECONDARY_POINT}&area=true&hide_border=true" \
+            "${ACTIVITY_GRAPH_BASE}?username=${SECONDARY_USER}&custom_title=${SECONDARY_TITLE}&bg_color=${GRAPH_BG}&color=${SECONDARY_COLOR}&line=${SECONDARY_LINE}&point=${SECONDARY_POINT}&area=true&hide_border=true" \
             -o .github/assets/activity-secondary.svg || echo "Warning: Could not fetch secondary activity graph SVG (non-fatal)"
 
           echo "Activity graph SVG cache refresh attempted."
