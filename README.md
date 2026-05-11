@@ -293,7 +293,7 @@ class ShivanshMishra:
 
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/shivansh-mishra-132b97358?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://www.linkedin.com/in/shivansh-mishra-132b97358?utm_source=share_via&utm_content=profile&utm_medium=member_android)](https://www.linkedin.com/in/shivansh-mishra-132b97358?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Gmail](https://img.shields.io/badge/Email-shivansh.mishra%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshmishra.coder@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-shivansh.dev-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://resume-webpage-ashy.vercel.app/)
 [![GitHub Primary](https://img.shields.io/badge/GitHub-shivansh--mishraji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivansh-mishraji)
