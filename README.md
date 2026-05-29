@@ -6,7 +6,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shivanshmishra7275&style=for-the-badge&color=0891b2&labelColor=1c1917)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-mishra-132b97358)
 [![Primary GitHub](https://img.shields.io/badge/Primary_Account-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivansh-mishraji)
 
@@ -82,11 +81,15 @@ I’m **Shivansh Mishra**, a 3rd-year B.Tech student with a passion for Machine 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Profile Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivanshmishra7275&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c1917)](https://github.com/Shivanshmishra7275)
+<div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshmishra7275&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c1917)](https://github.com/Shivanshmishra7275)
+![Profile Views](https://komarev.com/ghpvc/?username=Shivanshmishra7275&style=for-the-badge&color=0891b2&labelColor=1c1917)
+![GitHub followers](https://img.shields.io/github/followers/Shivanshmishra7275?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github&label=Followers)
+![GitHub User's stars](https://img.shields.io/github/stars/Shivanshmishra7275?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github&label=Stars+Earned)
+
+</div>
 
 ---
 
@@ -109,5 +112,3 @@ I am a student eager to learn and grow. I am currently open to entry-level inter
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer wave"/>
 
 </div>
-
-<!-- LAST_REFRESHED: 2026-05-29T13:58:11Z -->
