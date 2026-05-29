@@ -4,17 +4,16 @@
 <!--                         BANNER                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivansh%20Mishra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%7C%20Cloud%20Builder%20%7C%20AI%20SaaS%20Founder&descAlignY=55&descSize=20" width="100%" alt="Shivansh Mishra Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivansh%20Mishra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20Machine%20Learning%20Engineer%20%7C%20AI%20Builder%20%7C%20SaaS%20Founder&descAlignY=55&descSize=20" width="100%" alt="Shivansh Mishra Banner"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     TYPING ANIMATION                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6EE7F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;Full-Stack+AI+Builder+%F0%9F%9A%80;Vibe+Coder+%E2%9C%A8;AI+SaaS+Founder+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6EE7F7&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Data+Science+%26+ML+Engineer;Vibe+Coder+%F0%9F%A4%96;AI+SaaS+Builder+%F0%9F%9A%80;Cloud+%26+Docker+Enthusiast+%E2%98%81%EF%B8%8F;Startup+Builder+%26+Product+Thinker)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Shivanshmishra7275&style=for-the-badge&color=0891b2&labelColor=1c1917)
 [![GitHub followers](https://img.shields.io/github/followers/Shivanshmishra7275?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github&label=Followers)](https://github.com/Shivanshmishra7275)
 [![GitHub followers](https://img.shields.io/github/followers/shivansh-mishraji?style=for-the-badge&color=6366f1&labelColor=1c1917&logo=github&label=Primary+Account)](https://github.com/shivansh-mishraji)
@@ -23,302 +22,103 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 👋 About Me
 
-## 🧠 The Vision — Who Am I?
+I’m Shivansh Mishra, an entry-level Data Science and Machine Learning enthusiast focused on building practical, AI-driven products. I enjoy **vibe coding** with AI tools, turning ideas into functional prototypes quickly while keeping systems clean, useful, and scalable.
 
-```python
-class ShivanshMishra:
-    name       = "Shivansh Mishra"
-    role       = "3rd-Year B.Tech CSE (ML & Cloud Computing)"
-    mission    = "Building scalable AI-driven applications that create real-world impact"
-    accounts   = ["shivansh-mishraji (Primary)", "Shivanshmishra7275 (Secondary)"]
-    currently  = ["Architecting AI SaaS products", "Exploring LLM fine-tuning pipelines"]
-    superpower = "Vibe Coding — shipping production-grade software at lightning speed"
-```
-
-<br/>
-
-> *"The best way to predict the future is to build it with code, data, and relentless curiosity."*
-
-<br/>
-
-- 🚀 **Builder mindset:** I architect rapid, scalable software through *vibe coding* — combining intuition, AI tooling, and best engineering practices to ship fast without sacrificing quality.
-- 🤖 **ML & AI focus:** Developing predictive models, automated data pipelines, and intelligent systems that solve real-world problems at scale.
-- 🌐 **Global SaaS vision:** Engineering AI-powered SaaS products targeting Indian and global markets — from legal-tech to real-estate-tech.
-- ☁️ **Cloud-native thinking:** Designing fault-tolerant, cost-efficient cloud architectures on AWS/GCP with containerized microservices.
-- 📈 **Entrepreneurial drive:** Blending technical depth with product thinking and go-to-market strategy to build businesses, not just projects.
-- 🎯 **Current obsession:** LLM orchestration, MLOps pipelines, and building AI agents that actually ship value.
+- 🎯 Career focus: Data Science, Machine Learning Engineering, and AI product development.
+- 🤖 Core interest: ML pipelines, EDA, predictive modeling, and MLOps.
+- 🧠 Builder mindset: I like shipping real applications, not just experiments.
+- 🚀 Entrepreneurial side: I enjoy SaaS-style products and digital assets.
+- ☁️ Deployment exposure: Docker, Render, and cloud-based application workflows.
+- ⚖️ Project interest: AI-first legal-tech and problem-solving products for real users.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH ARSENAL                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🧰 Tech Stack
 
-## ⚡ Tech Arsenal
+### Machine Learning & Data Science
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `XGBoost` `Jupyter Notebook`
 
-<div align="center">
+### Backend & Web
+`FastAPI` `Flask` `Node.js` `Express` `JavaScript` `TypeScript` `React`
 
-### 🤖 Machine Learning & Data Science
+### Cloud & DevOps
+`Docker` `Render` `Vercel` `Git` `GitHub` `GitHub Copilot` `GitHub Student Developer Pack`
 
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
-[![Sklearn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)
-[![Kafka](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org)
-
-<br/>
-
-**Core Toolkit:**
-`Python` `TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `XGBoost` `Jupyter`
+### Databases & Tools
+`MongoDB` `PostgreSQL` `MySQL` `Redis` `VS Code` `Postman`
 
 ---
 
-### 🌐 Development, Cloud & DevOps
-
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
-[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-
-<br/>
-
-**Cloud & Infra:**
-`AWS (EC2, S3, Lambda, SageMaker)` `GCP (Vertex AI, BigQuery)` `Docker` `Kubernetes` `Vercel` `Nginx`
-
----
-
-### 🛢️ Databases & Tools
-
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECTS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏗️ Featured Architectures & Projects
-
-<div align="center">
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚖️ Nyaya Mitra</h3>
-      <div align="center">
-        <a href="https://github.com/shivansh-mishraji/nyaya-mitra" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-        </a>
-        <img src="https://img.shields.io/badge/Status-In%20Development-f59e0b?style=for-the-badge" alt="Status"/>
-      </div>
-      <br/>
       <p align="center">
-        <strong>AI-Powered Legal Super-App for India</strong>
+        AI-first legal super-app with a working logic system for a Raksha Mode panic button.
       </p>
       <p>
-        A comprehensive legal intelligence platform leveraging <strong>LLMs + RAG pipelines</strong> to democratize legal access in India. Features an AI legal advisor, document analysis engine, and IPC/CrPC clause search — architected as a microservices system deployed on GCP with a Next.js frontend and FastAPI backend.
+        Built as a legal-tech concept focused on accessibility, safety, and practical user support. The project reflects my interest in solving real-world problems with AI and product thinking.
       </p>
       <p align="center">
-        <code>Python</code> <code>LangChain</code> <code>RAG</code> <code>FastAPI</code> <code>Next.js</code> <code>GCP</code> <code>MongoDB</code>
+        <code>AI</code> <code>Legal Tech</code> <code>Product Design</code> <code>Logic Systems</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔬 ModelForge</h3>
-      <div align="center">
-        <a href="https://github.com/shivansh-mishraji/ModelForge" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-        </a>
-        <img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge" alt="Status"/>
-      </div>
-      <br/>
+      <h3 align="center">🔗 Contact Forge</h3>
       <p align="center">
-        <strong>Automated Data Science Pipeline</strong>
+        Live project: <a href="https://contactforge-cloud-web.vercel.app/" target="_blank">contactforge-cloud-web.vercel.app</a>
       </p>
       <p>
-        An end-to-end automated ML pipeline that handles data ingestion, preprocessing (imputation, encoding, scaling), feature engineering, model selection, hyperparameter tuning via <strong>Optuna</strong>, and deployment — reducing the DS workflow from days to minutes.
+        A live project focused on building a practical digital product experience. It represents my hands-on work in shipping and deploying usable web applications.
       </p>
       <p align="center">
-        <code>Python</code> <code>Scikit-learn</code> <code>Optuna</code> <code>Pandas</code> <code>MLflow</code> <code>Docker</code> <code>FastAPI</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💡 LUMOS</h3>
-      <div align="center">
-        <a href="https://github.com/shivansh-mishraji/LUMOS" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-ec4899?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-        </a>
-        <img src="https://img.shields.io/badge/Status-Shipped-22c55e?style=for-the-badge" alt="Status"/>
-      </div>
-      <br/>
-      <p align="center">
-        <strong>AI Date-Planning Web App</strong>
-      </p>
-      <p>
-        An intelligent date-planning platform that uses a <strong>Random Forest classifier</strong> trained on user preference data, weather patterns, venue ratings, and occasion type to recommend hyper-personalized date itineraries — served via a sleek React frontend with real-time recommendations.
-      </p>
-      <p align="center">
-        <code>Python</code> <code>Random Forest</code> <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Vercel</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏠 House Price Prediction</h3>
-      <div align="center">
-        <a href="https://github.com/Shivanshmishra7275/House-Price-Prediction" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-10b981?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-        </a>
-        <img src="https://img.shields.io/badge/Status-Complete-6366f1?style=for-the-badge" alt="Status"/>
-      </div>
-      <br/>
-      <p align="center">
-        <strong>End-to-End Predictive Modeling</strong>
-      </p>
-      <p>
-        A production-ready house price prediction system using <strong>XGBoost + Stacking Ensemble</strong> with advanced feature engineering (location encoding, amenity scoring, temporal features). Achieves sub-5% MAPE on held-out test sets with a deployed Flask API and interactive prediction UI.
-      </p>
-      <p align="center">
-        <code>Python</code> <code>XGBoost</code> <code>Scikit-learn</code> <code>Flask</code> <code>Pandas</code> <code>Matplotlib</code>
+        <code>Web App</code> <code>Deployment</code> <code>Vercel</code> <code>Product Building</code>
       </p>
     </td>
   </tr>
 </table>
 
-</div>
+---
+
+## 🛠 Experience Highlights
+
+- 🐳 Containerized an MVP application using Docker.
+- 🚀 Deployed a Python backend to Render.
+- 🧪 Worked on AI-assisted development workflows for faster prototyping.
+- 📦 Built software with a strong focus on shipping, iteration, and practicality.
+- 🎤 Presented a legal-tech startup pitch at ENTREPRENIA.
+- 🧑‍💻 Participated in the Coderush 2.0 hackathon at Dr. Akhilesh Das Gupta Auditorium, Lucknow.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              DUAL GITHUB ANALYTICS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 📚 What I’m Focused On
 
-## 📊 GitHub Analytics — Dual Account View
-
-> 💡 I contribute across **two GitHub accounts**. Here's the combined picture of my engineering output:
-
-<br/>
-
-### 🔵 Primary Account — `shivansh-mishraji`
-
-<div align="center">
-
-<a href="https://github.com/shivansh-mishraji">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivansh-mishraji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6ee7f7&icon_color=6366f1&text_color=c9d1d9" alt="shivansh-mishraji stats"/>
-</a>
-<a href="https://github.com/shivansh-mishraji">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-mishraji&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ee7f7&text_color=c9d1d9" alt="shivansh-mishraji top languages"/>
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shivansh-mishraji&theme=tokyonight&hide_border=true&background=0d1117&ring=6ee7f7&fire=6366f1&currStreakLabel=6ee7f7&sideLabels=c9d1d9&dates=c9d1d9&stroke=6ee7f7)](https://github.com/shivansh-mishraji)
-
-</div>
+- Building stronger ML fundamentals through real projects.
+- Improving data preprocessing, EDA, modeling, and evaluation workflows.
+- Learning MLOps and production deployment patterns.
+- Creating useful SaaS-style tools and AI-powered applications.
+- Strengthening backend, cloud, and system design skills.
 
 ---
 
-### 🟣 Secondary Account — `Shivanshmishra7275`
+## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/Shivanshmishra7275">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivanshmishra7275&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=c9d1d9" alt="Shivanshmishra7275 stats"/>
-</a>
-<a href="https://github.com/Shivanshmishra7275">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshmishra7275&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Shivanshmishra7275 top languages"/>
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shivanshmishra7275&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&stroke=a78bfa)](https://github.com/Shivanshmishra7275)
-
-</div>
+- LinkedIn: [Shivansh Mishra](https://www.linkedin.com/in/shivansh-mishra-132b97358)
+- GitHub Primary: [shivansh-mishraji](https://github.com/shivansh-mishraji)
+- GitHub Secondary: [Shivanshmishra7275](https://github.com/Shivanshmishra7275)
 
 ---
 
-### 🌐 Contribution Activity
+## 💡 Current Status
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivansh-mishraji&bg_color=0d1117&color=6ee7f7&line=6366f1&point=6ee7f7&area=true&hide_border=true&area_color=6366f120" alt="shivansh-mishraji Activity Graph" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanshmishra7275&bg_color=0d1117&color=a78bfa&line=ec4899&point=a78bfa&area=true&hide_border=true&area_color=a78bfa20" alt="Shivanshmishra7275 Activity Graph" width="100%"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  GITHUB TROPHIES                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shivansh-mishraji&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/shivansh-mishraji)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CONNECT & SOCIALS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🌐 Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://www.linkedin.com/in/shivansh-mishra-132b97358?utm_source=share_via&utm_content=profile&utm_medium=member_android)](https://www.linkedin.com/in/shivansh-mishra-132b97358?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Gmail](https://img.shields.io/badge/Email-shivansh.mishra%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshmishra.coder@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-shivansh.dev-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://resume-webpage-ashy.vercel.app/)
-[![GitHub Primary](https://img.shields.io/badge/GitHub-shivansh--mishraji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivansh-mishraji)
-[![GitHub Secondary](https://img.shields.io/badge/GitHub-Shivanshmishra7275-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivanshmishra7275)
-
-<br/>
-
-**Open to:** Internships · AI/ML Collaborations · Open-Source Contributions · Startup Co-Founding
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     FOOTER WAVE                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+Open to internships, AI/ML collaborations, open-source contributions, and startup opportunities.
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer wave"/>
 
-<br/>
-
-*✨ Last updated by GitHub Actions — auto-refreshed every 12 hours ✨*
-
 </div>
-
-<!-- LAST_REFRESHED: 2026-05-29T02:13:39Z -->
