@@ -84,14 +84,9 @@ I’m **Shivansh Mishra**, a 3rd-year B.Tech student with a passion for Machine 
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Shivanshmishra7275">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shivanshmishra7275&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c1917" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/Shivanshmishra7275">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshmishra7275&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c1917" alt="Top Languages" width="48%" />
-  </a>
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivanshmishra7275&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c1917)](https://github.com/Shivanshmishra7275)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshmishra7275&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c1917)](https://github.com/Shivanshmishra7275)
 
 ---
 
@@ -114,5 +109,3 @@ I am a student eager to learn and grow. I am currently open to entry-level inter
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer wave"/>
 
 </div>
-
-<!-- LAST_REFRESHED: 2026-05-29T13:53:05Z -->
