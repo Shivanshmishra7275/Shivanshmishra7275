@@ -4,19 +4,19 @@
 <!--                         BANNER                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivansh%20Mishra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20Machine%20Learning%20Engineer%20%7C%20AI%20Builder%20%7C%20SaaS%20Founder&descAlignY=55&descSize=20" width="100%" alt="Shivansh Mishra Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Shivansh%20Mishra&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Data%20Science%20%26%20Machine%20Learning%20Engineer%20%7C%20AI%20Builder%20%7C%20SaaS%20Founder&amp;descAlignY=55&amp;descSize=20" width="100%" alt="Shivansh Mishra Banner"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     TYPING ANIMATION                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6EE7F7&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Data+Science+%26+ML+Engineer;Vibe+Coder+%F0%9F%A4%96;AI+SaaS+Builder+%F0%9F%9A%80;Cloud+%26+Docker+Enthusiast+%E2%98%81%EF%B8%8F;Startup+Builder+%26+Product+Thinker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=6EE7F7&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=650&amp;height=60&amp;lines=Data+Science+%26+ML+Engineer;Vibe+Coder+%F0%9F%A4%96;AI+SaaS+Builder+%F0%9F%9A%80;Cloud+%26+Docker+Enthusiast+%E2%98%81%EF%B8%8F;Startup+Builder+%26+Product+Thinker)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shivanshmishra7275&style=for-the-badge&color=0891b2&labelColor=1c1917)
-[![GitHub followers](https://img.shields.io/github/followers/Shivanshmishra7275?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github&label=Followers)](https://github.com/Shivanshmishra7275)
-[![GitHub followers](https://img.shields.io/github/followers/shivansh-mishraji?style=for-the-badge&color=6366f1&labelColor=1c1917&logo=github&label=Primary+Account)](https://github.com/shivansh-mishraji)
+![Profile Views](https://komarev.com/ghpvc/?username=Shivanshmishra7275&amp;style=for-the-badge&amp;color=0891b2&amp;labelColor=1c1917)
+[![GitHub followers](https://img.shields.io/github/followers/Shivanshmishra7275?style=for-the-badge&amp;color=0891b2&amp;labelColor=1c1917&amp;logo=github&amp;label=Followers)](https://github.com/Shivanshmishra7275)
+[![GitHub followers](https://img.shields.io/github/followers/shivansh-mishraji?style=for-the-badge&amp;color=6366f1&amp;labelColor=1c1917&amp;logo=github&amp;label=Primary+Account)](https://github.com/shivansh-mishraji)
 
 </div>
 
@@ -119,7 +119,6 @@ Open to internships, AI/ML collaborations, open-source contributions, and startu
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%" alt="footer wave"/>
 
 </div>
-<!-- LAST_REFRESHED: 2026-05-29T13:40:20Z -->
