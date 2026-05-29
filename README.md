@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Shivansh%20Mishra&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Entry-Level%20Data%20Science%20%26%20ML%20Builder%20%7C%20AI%20Product%20Explorer&amp;descAlignY=58&amp;descSize=20" width="100%" alt="Shivansh Mishra Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shivansh%20Mishra&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Entry-Level%20Data%20Science%20%26%20ML%20Builder%20%7C%20AI%20Product%20Explorer&descAlignY=58&descSize=20" width="100%" alt="Shivansh Mishra Banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=900&amp;color=6EE7F7&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=760&amp;height=60&amp;lines=Learning+Data+Science+%26+Machine+Learning;Building+AI-first+projects+with+practical+thinking;Vibe+coding+web+apps+and+MVPs+with+AI+tools;Exploring+ML+pipelines%2C+EDA%2C+modeling%2C+and+deployment)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivansh%20Mishra-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/shivansh-mishra-132b97358)
-[![GitHub Primary](https://img.shields.io/badge/GitHub-shivansh--mishraji-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/shivansh-mishraji)
-[![GitHub Secondary](https://img.shields.io/badge/GitHub-Shivanshmishra7275-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Shivanshmishra7275)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=6EE7F7&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=60&lines=Learning+Data+Science+%26+Machine+Learning;Building+AI-first+projects+with+practical+thinking;Vibe+coding+web+apps+and+MVPs+with+AI+tools;Exploring+ML+pipelines%2C+EDA%2C+modeling%2C+and+deployment)](https://git.io/typing-svg)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Shivanshmishra7275&amp;style=for-the-badge&amp;color=0891b2&amp;labelColor=1c1917)](https://github.com/Shivanshmishra7275)
-[![Followers](https://img.shields.io/github/followers/Shivanshmishra7275?style=for-the-badge&amp;color=0891b2&amp;labelColor=1c1917&amp;logo=github&amp;label=Followers)](https://github.com/Shivanshmishra7275)
-[![Student Pack](https://img.shields.io/badge/GitHub%20Student%20Developer%20Pack-Active-6366f1?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://education.github.com/pack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivansh%20Mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-mishra-132b97358)
+[![GitHub Primary](https://img.shields.io/badge/GitHub-shivansh--mishraji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivansh-mishraji)
+[![GitHub Secondary](https://img.shields.io/badge/GitHub-Shivanshmishra7275-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivanshmishra7275)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Shivanshmishra7275&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Shivanshmishra7275)
+[![Followers](https://img.shields.io/badge/Follow-Shivanshmishra7275-0891b2?style=for-the-badge&logo=github&labelColor=1c1917)](https://github.com/Shivanshmishra7275)
+[![Student Pack](https://img.shields.io/badge/GitHub%20Student%20Developer%20Pack-Active-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://education.github.com/pack)
 
 </div>
 
@@ -61,7 +61,7 @@ I enjoy building practical software, learning ML fundamentals deeply, and using 
         A legal-tech product concept focused on practical problem-solving and accessibility. It includes a functional logic system for a <b>Raksha Mode</b> panic button and reflects my interest in AI-first, user-focused product building.
       </p>
       <p align="center">
-        de>AI Product</code> de>Logic System</code> de>Legal Tech</code> de>Problem Solving</code>
+        <code>AI Product</code> <code>Logic System</code> <code>Legal Tech</code> <code>Problem Solving</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -72,7 +72,7 @@ I enjoy building practical software, learning ML fundamentals deeply, and using 
       </p>
       <p align="center">
         <a href="https://contactforge-cloud-web.vercel.app/" target="_blank" rel="noopener noreferrer"><b>🌐 View Live Project</b></a><br/><br/>
-        de>Web App</code> de>Deployment</code> de>Vercel</code> de>Product Building</code>
+        <code>Web App</code> <code>Deployment</code> <code>Vercel</code> <code>Product Building</code>
       </p>
     </td>
   </tr>
@@ -113,7 +113,6 @@ Open to internships, AI/ML collaborations, open-source contributions, and startu
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=110&amp;section=footer" width="100%" alt="footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%" alt="footer wave"/>
 
 </div>
-<!-- LAST_REFRESHED: 2026-05-29T14:03:54Z -->
