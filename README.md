@@ -98,4 +98,4 @@ Open to internships, AI/ML collaborations, open-source contributions, and startu
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=110&amp;section=footer" width="100%" alt="footer wave"/>
 
 </div>
-<!-- LAST_REFRESHED: 2026-10-25T15:16:17Z -->
+<!-- LAST_REFRESHED: 2026-10-26T02:21:16Z -->
